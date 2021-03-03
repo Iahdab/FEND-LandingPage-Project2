@@ -23,7 +23,7 @@ To get started, open `js/app.js` and start building out the app's functionality.
       To build the Navigation bar I used for loop , createElement Function to create li tag & a tag,
       set class `menu__link`for anchors, lastly attach the a tag as child to the li tag.
 
-   - **Section Active State :**
+   - **Section Active State:**
       To create this functionality it contain four parts:
       Part 1: create a `checkIfSectionInView(element)`to check if the section is in viewport return either true or false.
       Part 2: create a `makeSectionsNotHighlighted()` to remove class ‘your-active-class’ from all sections.
@@ -37,10 +37,11 @@ To get started, open `js/app.js` and start building out the app's functionality.
  ### File
    
  ### CloningRepo
-  **in terminal**\
-    ```git clone https://github.com/Iahdab/FEND-BlogPost-Project1.git```
-  **or in vscode command palatte**\
-    ```>Git: Colne  https://github.com/Iahdab/FEND-BlogPost-Project1.git```
+ 
+   - In Terminal : 
+   ```git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git``` 
+   - In VS code Command Palatte :
+   ```>Git: Colne  https://github.com/Iahdab/FEND-LandingPage-Project2.git``` 
     
  ### RunningProject
   open index.html in browser 
