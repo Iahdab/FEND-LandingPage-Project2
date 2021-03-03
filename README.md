@@ -43,6 +43,7 @@ To get started, open `js/app.js` and start building out the app's functionality.
    OR
    - **In VS code Command Palatte:**\
    ```>Git: Colne  https://github.com/Iahdab/FEND-LandingPage-Project2.git``` 
+   - ***NOTE: also you can fetch or Download as zip file.***
     
  ### RunningProject
   open index.html in browser 
