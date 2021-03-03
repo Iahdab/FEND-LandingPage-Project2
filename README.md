@@ -40,6 +40,7 @@ To get started, open `js/app.js` and start building out the app's functionality.
  
    - **In Terminal:**\
    ```git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git``` 
+   OR
    - **In VS code Command Palatte:**\
    ```>Git: Colne  https://github.com/Iahdab/FEND-LandingPage-Project2.git``` 
     
