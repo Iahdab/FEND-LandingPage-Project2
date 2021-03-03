@@ -37,9 +37,9 @@ To get started, open `js/app.js` and start building out the app's functionality.
  ### File
    
  ### CloningRepo 
-  **in terminal**\
+  **in terminal** \
     ```git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git```
-  **or in vscode command palatte**\
+  **or in vscode command palatte** \
     ```>Git: Colne  https://github.com/Iahdab/FEND-LandingPage-Project2.git```
     
  ### RunningProject
