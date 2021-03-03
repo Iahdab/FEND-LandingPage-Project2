@@ -31,7 +31,7 @@ To create this functionality scrolling on click of an anchor to go to a specific
 Function that have all the anchors in array and through for loop each anchor element will have an event listener, and prevent the default action which like jump to a smooth scroll used `scrollTo` (set the Top & behavior)
 
 
-##CloningRepo 
+## CloningRepo 
 in terminal
 ```sh
 `git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git` \
