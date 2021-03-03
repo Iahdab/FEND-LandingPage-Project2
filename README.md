@@ -4,10 +4,10 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [GettingStarted](#GettingStarted)
-- - [Functionality](#Functionality)
-- - [File](#File)
-- - [CloningRepo](#CloningRepo)
-- - [RunningProject](#RunningProject)
+   - [Functionality](#Functionality)
+   - [File](#File)
+   - [CloningRepo](#CloningRepo)
+   - [RunningProject](#RunningProject)
 - [Deploying](#Deploying)
 
 
