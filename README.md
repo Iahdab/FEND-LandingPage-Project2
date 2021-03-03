@@ -4,7 +4,7 @@
 
 - [Instructions](#instructions)
 - [Functionality](#functionality)
-- [To clone](#To clone)
+- [ToClone](#ToClone)
 
 ## Instructions
 
