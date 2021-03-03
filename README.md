@@ -4,7 +4,7 @@
 
 - [Instructions](#instructions)
 - [Functionality](#functionality)
-- [ToClone](#To clone)
+- [CloningRepo](#CloningRepo)
 
 ## Instructions
 
@@ -30,7 +30,8 @@ Scroll to Anchor:
 To create this functionality scrolling on click of an anchor to go to a specific section ,created `scrollingToSection()`
 Function that have all the anchors in array and through for loop each anchor element will have an event listener, and prevent the default action which like jump to a smooth scroll used `scrollTo` (set the Top & behavior)
 
-## To clone 
+
+##CloningRepo 
 in terminal
 ```sh
 `git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git` \
