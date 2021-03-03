@@ -34,7 +34,7 @@ Function that have all the anchors in array and through for loop each anchor ele
 ## CloningRepo 
 in terminal
 ```sh
-`git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git` \
+`git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git` 
 ```
 or in vscode command palatte 
 ```sh
