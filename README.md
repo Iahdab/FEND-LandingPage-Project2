@@ -36,11 +36,11 @@ To get started, open `js/app.js` and start building out the app's functionality.
 
  ### File
    
- ### CloningRepo 
-  **in terminal** \
-    ```git clone https://github.com/Iahdab/FEND-LandingPage-Project2.git```
-  **or in vscode command palatte** \
-    ```>Git: Colne  https://github.com/Iahdab/FEND-LandingPage-Project2.git```
+ ### CloningRepo
+  **in terminal**\
+    ```git clone https://github.com/Iahdab/FEND-BlogPost-Project1.git```
+  **or in vscode command palatte**\
+    ```>Git: Colne  https://github.com/Iahdab/FEND-BlogPost-Project1.git```
     
  ### RunningProject
   open index.html in browser 
